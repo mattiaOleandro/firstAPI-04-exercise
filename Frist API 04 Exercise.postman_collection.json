@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "576700b9-c468-4d72-8209-44df05795030",
+		"name": "Frist API 04 Exercise",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21617836"
+	},
+	"item": [
+		{
+			"name": "getHeaders",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
